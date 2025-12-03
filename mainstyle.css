@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Full-screen Krishna background */
+body{
+    height: 100vh;
+    width: 100vw;
+    background: url("assets/krishna\ pic\ 4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40vw;
+    margin-right: 3rem;
+    background: transparent;
+}
+.mood-heading{
+    text-align: center;
+    text-wrap: wrap;
+    margin-top: 1rem;
+    color: #f5d97c;
+    font-family: 'Playfair Display', serif;
+    text-shadow: 0 0 12px rgba(245,217,124,0.55);
+}
+.cards-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 1rem;
+    padding: 1rem;
+    
+}
+.card{
+   width: 20vmin;
+   height: 20vmin;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   background: rgba(255, 255, 255, 0.82);
+   backdrop-filter: blur(4px);
+   box-shadow: 0 0.7rem 1.6rem rgba(0,0,0,0.4);
+   /*Modifications*/
+   border: 2px solid rgba(255, 215, 140, 0.6);
+   border-radius: 1rem;
+   outline: none;
+  box-shadow:
+    0 0 20px rgba(0,0,0,0.4),
+    0 0 25px rgba(255, 215, 180, 0.25); /* divine aura */
+  transition: 0.3s ease;
+  cursor: pointer;
+  pointer-events: auto !important;
+
+}
+.card[data-aos] {
+  transition: transform 0.15s ease, box-shadow 0.3s ease;
+}
+.card:hover {
+  transform: translateY(-0.8vmin) !important;      /* override AOS transform */
+  box-shadow: 0 0.7rem 2rem rgba(0,0,0,0.4);
+  box-shadow:
+    0 0 35px rgba(255, 225, 150, 0.3),
+    0 0 50px rgba(255, 215, 160, 0.6);
+  border-color: rgba(255,230,170,0.8);
+  outline: none;
+}
+
+.card:focus,
+.card:active {
+  outline: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.emoji{
+    width: 10vmin;
+    height: 10vmin;
+    margin-bottom: 0.6rem;
+}
+.card p{
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #1e1e1e;
+}
+
+/* =========================================
+   Mobile Responsive (Phones)
+   Max-width: 576px
+   ========================================= */
+@media (max-width: 576px) {
+  
+  body {
+    /* LOCKS the background so Krishna stays still while cards scroll */
+    background-attachment: fixed; 
+    background-position: 35% center; 
+    
+    /* Allow the body to expand for scrolling */
+    height: auto;
+    min-height: 100vh;
+    display: block; /* Removes flex centering so we can use margin-top */
+    overflow-x: hidden;
+  }
+
+  .container {
+    width: 90%;
+    margin: 0 auto; /* Center the container horizontally */
+    
+    /* Push the cards down by 45% of screen height 
+       so Krishna's face is clearly visible at the top */
+    margin-top: 35vh; 
+    padding-bottom: 3rem;
+  }
+
+  .mood-heading {
+    /* Move heading to top and make it readable against the dark/light background */
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    text-shadow: 0 0 15px #000; /* Stronger shadow for readability */
+  }
+
+  .cards-container {
+    /* STACK VERTIALLY: 1 Column */
+    grid-template-columns: 1fr; 
+    gap: 1rem;
+    padding: 0;
+  }
+
+  .card {
+    width: 100%;
+    /* Convert square card into a nice rectangular "List Item" */
+    height: 70px; 
+    aspect-ratio: auto; /* Remove square shape */
+    
+    /* Align items side-by-side (Row) instead of Top-Bottom */
+    flex-direction: row; 
+    justify-content: flex-start; /* Align to left */
+    padding-left: 2rem; /* Space from left edge */
+    padding-right: 2rem;
+  }
+
+  .emoji {
+    /* Adjust emoji size and position for the list view */
+    width: 35px;
+    height: 35px;
+    margin-bottom: 0; /* Remove bottom margin */
+    margin-right: 1rem; /* Add space between emoji and text */
+  }
+
+  .card p {
+    margin-bottom: 0;
+    font-size: 1.2rem;
+  }
+}

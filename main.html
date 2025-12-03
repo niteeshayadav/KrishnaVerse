@@ -7,16 +7,63 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Poppins:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css" />
+    <link rel="stylesheet" href="mainstyle.css">
     <title>Moods</title>
  </head>
   <body>
-    <h1></h1>
+    <div class="container">
+      <h1 class="mood-heading">How Are You Feeling Today?</h1>
+      <div class="cards-container">
+        <button type="button" class="card" data-aos="fade-up" data-aos-delay="0">
+        <img src="assets/happy.png.png" alt="happy emoji" class="emoji">
+        <p>Happy</p>
+        </button>
+      <button type="button" class="card" data-aos="fade-up" data-aos-delay="50">
+        <img src="assets/sad.png.png" alt="sad emoji" class="emoji">
+        <p>Sad</p>
+      </button>
+      <button type="button" class="card" data-aos="fade-up" data-aos-delay="100">
+        <img src="assets/angry.png.png" alt="anger emoji" class="emoji">
+        <p>Anger</p>
+      </button>
+      <button type="button" class="card" data-aos="fade-up" data-aos-delay="150">
+        <img src="assets/anxious.png.png" alt="anxious emoji" class="emoji">
+        <p>Anxious</p>
+      </button>
+      <button type="button" class="card" data-aos="fade-up" data-aos-delay="200">
+        <img src="assets/lazy.png.png" alt="lazy emoji" class="emoji">
+        <p>Lazy</p>
+      </button>
+      <button type="button" class="card" data-aos="fade-up" data-aos-delay="250">
+        <img src="assets/peace.png.png" alt="peace emoji" class="emoji">
+        <p>Peaceful</p>
+      </button>
+      <button type="button" class="card" data-aos="fade-up" data-aos-delay="300">
+        <img src="assets/confused.png.png" alt="confused emoji" class="emoji">
+        <p>Confused</p>
+      </button>
+      <button type="button" class="card" data-aos="fade-up" data-aos-delay="350">
+        <img src="assets/loneliness.png.png" alt="lonely emoji" class="emoji">
+        <p>Lonely</p>
+      </button>
+      </div>
+    </div>
+    <script src="main.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+    AOS.init({
+      duration: 900,    // speed of animation
+      once: true,       // animation happens every scroll
+      easing: "ease-in-out",
+      disable: 'mobile'
+    });
+    </script>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+    
   </body>
 </html>

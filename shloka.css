@@ -1,0 +1,203 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background: url("assets/krishna\ pic\ 4.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.msg-container{
+    height: 60vh;
+    width: 28vw;
+    background-color: white;
+    border-radius: 1rem;
+    margin-left: 50vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem 1.5rem;
+}
+.msg-container h2{
+    text-align: center;
+    text-wrap: wrap;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+    
+}
+.reference{
+    font-size: 1.3rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+.shloka-quote{
+    font-size: 1rem;
+    font-weight: 700;
+    font-style: oblique;
+    margin-bottom: 1rem;
+    white-space: pre-line;
+}
+.translation{
+    font-size: 1.2rem;
+    font-weight: 500;
+    font-style: oblique;
+    margin-bottom: 0.5rem;
+}
+.meaning{
+    font-size: 1rem;
+    font-weight: 500;
+    font-style: italic;
+    margin-bottom: 1rem;
+}
+.nextquote{
+  margin-top: 0.5rem;
+  width: 10vw;
+  height: 5vh;
+  background: #f9d65c;
+  outline: none;
+  border-radius: 0.5rem;
+  font-family: Poppins, sans-serif;
+  font-size: 1rem;
+  color: #000;
+  border: none;
+  outline: none;
+  box-shadow: 0 0 5px #f9d65c, 0 0 10px #f9d65c;
+  transition: 0.3s ease-in-out;
+  
+
+}
+.nextquote:hover{
+  box-shadow: 0 0 15px #f9d65c, 0 0 30px #f9d65c;
+  transform: scale(1.03);
+  transition: 0.3s ease-in-out;
+  border: none;
+  outline: none;
+}
+.nextquote:focus, 
+.nextquote:active {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* =========================================
+   Mobile Responsive (Phones)
+   Max-width: 576px
+   ========================================= */
+@media (max-width: 576px) {
+  
+  body {
+    /* 1. Shift focus left to keep Krishna in frame (consistent with other pages) */
+    background-position: 35% center;
+    /* Allow scrolling if content is long */
+    height: auto;
+    min-height: 100vh;
+    padding: 2rem 0; 
+  }
+
+  .msg-container {
+    /* 2. Reset position and fill screen width */
+    width: 90vw;
+    margin-left: 0; 
+    height: auto; /* Allow height to grow with the text */
+    min-height: 50vh;
+    padding: 1.5rem;
+    
+    /* 3. Ensure it stands out against the background */
+    background: rgba(255, 255, 255, 0.95);
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+  }
+
+  .msg-container h2 {
+    font-size: 1.5rem; /* Smaller heading */
+    margin-top: 0;
+  }
+
+  .reference {
+    font-size: 1.1rem;
+  }
+
+  .shloka-quote {
+    font-size: 0.9rem; /* Sanskrit text size */
+    text-align: center; /* Center the verses */
+    white-space: pre-wrap; /* Ensure text wraps if lines are long */
+  }
+
+  .translated-meaning {
+    text-align: center;
+  }
+
+  .translation {
+    font-size: 1.1rem;
+  }
+
+  .meaning {
+    font-size: 0.95rem;
+    text-align: justify; /* Make paragraph look neat */
+  }
+
+  .nextquote {
+    /* 4. Make button easy to tap */
+    width: 60vw;
+    height: 3rem;
+    font-size: 1rem;
+    margin-top: 1rem;
+  }
+}
+
+/* =========================================
+   Tablet Responsive (iPads, Tabs)
+   Width: 577px to 1024px
+   ========================================= */
+@media (min-width: 577px) and (max-width: 1024px) {
+  
+  body {
+    background-position: 40% center;
+  }
+
+  .msg-container {
+    /* Center the container */
+    width: 70vw;
+    margin-left: 0;
+    height: auto;
+    padding: 2rem;
+    background: rgba(255, 255, 255, 0.95);
+  }
+
+  .msg-container h2 {
+    font-size: 2rem;
+  }
+
+  .shloka-quote {
+    font-size: 1.1rem;
+    text-align: center;
+  }
+
+  .meaning {
+    font-size: 1.1rem;
+  }
+
+  .nextquote {
+    width: 30vw;
+    height: 3.5rem;
+    font-size: 1.2rem;
+  }
+}
+@media (max-width: 380px) {
+  .msg-container {
+    width: 96%;        /* Make the white box wider on screen */
+    padding: 0.8rem;   /* Reduce padding so text has more room to spread */
+  }
+
+  .shloka-quote {
+    font-size: 0.8rem; /* Make Sanskrit text slightly smaller to fit on one line */
+    text-align: center;
+    white-space: pre-wrap; /* Helps text wrap more naturally */
+    padding-right: 1rem ;
+  }
+}

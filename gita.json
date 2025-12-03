@@ -1,0 +1,345 @@
+{
+  "Happy": [
+    {
+      "reference": "B.G 2.47",
+      "sanskrit_shloka": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।\nमा कर्मफलहेतुर्भूर्मा ते संगोऽस्त्वकर्मणि ॥",
+      "original_translation": "You have a right to perform your prescribed duties, but never to the fruits of your actions. Do not think yourself the cause of the results of your activities, and do not be attached to inaction."
+    },
+    {
+      "reference": "B.G 2.70",
+      "sanskrit_shloka": "आपूर्यमाणमचलप्रतिष्ठं\nसमुद्रमापः प्रविशन्ति यद्वत् ।\nतद्वत्कामा यं प्रविशन्ति सर्वे\nस शान्तिमाप्नोति न कामकामी ॥",
+      "original_translation": "Just as rivers enter the full, steady ocean without disturbing it, so desires enter the steady person who attains peace, not the one who seeks desires."
+    },
+    {
+      "reference": "B.G 3.30",
+      "sanskrit_shloka": "मयि सर्वाणि कर्माणि संन्यास्याध्यात्मचेतसा ।\nनिराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः ॥",
+      "original_translation": "Surrender all your works to Me with a spiritual mind, free from desire and selfishness; fight without inner agitation."
+    },
+    {
+      "reference": "B.G 4.39",
+      "sanskrit_shloka": "श्रद्धावान् लभते ज्ञानं तत्परः संयतेन्द्रियः ।\nज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति ॥",
+      "original_translation": "A faithful, disciplined person who controls the senses obtains knowledge, and gaining knowledge quickly attains supreme peace."
+    },
+    {
+      "reference": "B.G 5.10",
+      "sanskrit_shloka": "ब्रह्मण्याधाय कर्माणि संगं त्यक्त्वा करोति यः ।\nलिप्यते न स पापेन पद्मपत्रमिवाम्भसा ॥",
+      "original_translation": "One who performs actions renouncing attachment and dedicating them to the Divine is untouched by sin, like a lotus leaf in water."
+    },
+    {
+      "reference": "B.G 6.20",
+      "sanskrit_shloka": "यत्रोपरमते चित्तं निरुद्धं योगसेवया ।\nयत्र चैवात्मनाऽऽत्मानं पश्यन्नात्मनि तुष्यति ॥",
+      "original_translation": "When the restrained mind becomes still through yoga practice, one rejoices in the inner self, seeing the Self by the self."
+    },
+    {
+      "reference": "B.G 10.41",
+      "sanskrit_shloka": "यद् यद् विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा ।\nतत्तदेवावगच्छ त्वं मम तेजोंऽशसम्भवम् ॥",
+      "original_translation": "Wherever you see glory, beauty, or power, know that it springs from a spark of My splendor."
+    },
+    {
+      "reference": "B.G 18.37",
+      "sanskrit_shloka": "यत्तदग्रे विषमिव परिणामेऽमृतोपमम् ।\nतत्सुखं सात्त्विकं प्रोक्तमात्मबुद्धिप्रसादजम् ॥",
+      "original_translation": "That happiness which at first seems like poison but in the end is like nectar is said to be sattvic, born of clarity of mind."
+    }
+  ],
+
+  "Sad": [
+    {
+      "reference": "B.G 2.11",
+      "sanskrit_shloka": "अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे ।\nगतासूनगतासूंश्च नानुशोचन्ति पण्डिताः ॥",
+      "original_translation": "You grieve for those who should not be grieved for; the wise do not lament for the living or the dead."
+    },
+    {
+      "reference": "B.G 2.14",
+      "sanskrit_shloka": "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः ।\nआगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत ॥",
+      "original_translation": "O son of Kunti, the sensations of heat and cold, pleasure and pain are temporary; endure them patiently."
+    },
+    {
+      "reference": "B.G 2.24",
+      "sanskrit_shloka": "अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च ।\nनित्यः सर्वगतः स्थाणुरचलोऽयं सनातनः ॥",
+      "original_translation": "The soul cannot be cut, burned, wetted, or dried. It is eternal, all-pervading, steady, immovable, and everlasting."
+    },
+    {
+      "reference": "B.G 4.7",
+      "sanskrit_shloka": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत ।\nअभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ॥",
+      "original_translation": "Whenever righteousness declines and unrighteousness rises, I manifest Myself."
+    },
+    {
+      "reference": "B.G 6.5",
+      "sanskrit_shloka": "उद्धरेदात्मनाऽत्मानं नात्मानमवसादयेत् ।\nआत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः ॥",
+      "original_translation": "Let a person lift themself by the self; the self alone is their friend and the self alone is their enemy."
+    },
+    {
+      "reference": "B.G 6.7",
+      "sanskrit_shloka": "ज्ञानेन तु तदज्ञानं येषां नाशितमात्मनः ।\nतेषामादित्यवज्ज्ञानं प्रकाशयति तत्परम् ॥",
+      "original_translation": "For those whose ignorance has been destroyed by knowledge, wisdom reveals the Supreme like the sun."
+    },
+    {
+      "reference": "B.G 18.58",
+      "sanskrit_shloka": "मच्चित्तः सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि ।\nअथ चेत्त्वमहंकारान्न श्रोष्यसि विनङ्क्ष्यसि ॥",
+      "original_translation": "Fix your mind on Me, and you will overcome all difficulties by My grace."
+    },
+    {
+      "reference": "B.G 18.66",
+      "sanskrit_shloka": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज ।\nअहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ॥",
+      "original_translation": "Abandon all duties and take refuge in Me alone; I shall liberate you from all sins. Do not grieve."
+    }
+  ],
+
+  "Anger": [
+    {
+      "reference": "B.G 2.63",
+      "sanskrit_shloka": "क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः ।\nस्मृतिभ्रंशाद् बुद्धिनाशो बुद्धिनाशात्प्रणश्यति ॥",
+      "original_translation": "From anger comes delusion, from delusion loss of memory; from loss of memory, destruction of intelligence; and when intelligence is destroyed, one perishes."
+    },
+    {
+      "reference": "B.G 3.37",
+      "sanskrit_shloka": "काम एष क्रोध एष रजोगुणसमुद्भवः ।\nमहाशनो महापाप्मा विद्ध्येनमिह वैरिणम् ॥",
+      "original_translation": "It is desire and anger, born of the mode of passion, all-devouring and sinful; know this as the enemy."
+    },
+    {
+      "reference": "B.G 5.26",
+      "sanskrit_shloka": "कामक्रोधवियुक्तानां यतीनां यतचेतसाम् ।\nअभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम् ॥",
+      "original_translation": "For those who are free from desire and anger, and who have controlled their mind, Brahman-realization is near."
+    },
+    {
+      "reference": "B.G 6.9",
+      "sanskrit_shloka": "सुहृन्मित्रार्युदासीनमध्यस्थद्वेष्यबन्धुषु ।\nसाधुष्वपि च पापेषु समबुद्धिर्विशिष्यते ॥",
+      "original_translation": "One who views friend, enemy, neutral, mediator, hateful, relative, saint, and sinner alike is distinguished."
+    },
+    {
+      "reference": "B.G 6.26",
+      "sanskrit_shloka": "यतो यतो निश्चरति मनश्चञ्चलमस्थिरम् ।\nततस्ततो नियम्यैतदात्मन्येव वशं नयेत् ॥",
+      "original_translation": "Wherever the restless mind wanders, bring it back under the control of the self."
+    },
+    {
+      "reference": "B.G 12.13",
+      "sanskrit_shloka": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च ।\nनिर्ममो निरहङ्कारः समदुःखसुखः क्षमी ॥",
+      "original_translation": "One who is free from hatred toward all beings, friendly and compassionate, without ego, and patient is dear to Me."
+    },
+    {
+      "reference": "B.G 12.15",
+      "sanskrit_shloka": "यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः ।\nहर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः ॥",
+      "original_translation": "One from whom the world is not disturbed, and who is not disturbed by the world, who is free from joy, envy, fear, and agitation, is dear to Me."
+    },
+    {
+      "reference": "B.G 16.21",
+      "sanskrit_shloka": "त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः ।\nकामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् ॥",
+      "original_translation": "Desire, anger, and greed are the three gates leading to hell; therefore one should abandon them."
+    }
+  ],
+
+  "Anxious": [
+    {
+      "reference": "B.G 4.38",
+      "sanskrit_shloka": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते ।\nतत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति ॥",
+      "original_translation": "There is nothing so purifying as knowledge; the yogi eventually discovers this within himself in due time."
+    },
+    {
+      "reference": "B.G 5.12",
+      "sanskrit_shloka": "युक्तः कर्मफलं त्यक्त्वा शान्तिमाप्नोति नैष्ठिकीम् ।\nअयुक्तः कामकारेण फले सक्तो निबध्यते ॥",
+      "original_translation": "The disciplined man, having abandoned the fruit of action, attains lasting peace; the undisciplined, attached to results, is bound."
+    },
+    {
+      "reference": "B.G 6.26",
+      "sanskrit_shloka": "यतो यतो निश्चरति मनश्चञ्चलमस्थिरम् ।\nततस्ततो नियम्यैतदात्मन्येव वशं नयेत् ॥",
+      "original_translation": "Wherever the unsteady mind wanders, let him bring it back under the control of the Self."
+    },
+    {
+      "reference": "B.G 7.7",
+      "sanskrit_shloka": "मत्तः परतरं नान्यत्किञ्चिदस्ति धनञ्जय ।\nमयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव ॥",
+      "original_translation": "There is nothing higher than Me; all things are strung on Me like pearls on a thread."
+    },
+    {
+      "reference": "B.G 9.22",
+      "sanskrit_shloka": "अनन्याश्चिन्तयन्तो मां ये जनाः परिवत्सते ।\nतेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ॥",
+      "original_translation": "Those who meditate on Me with exclusive devotion—I carry what they lack and preserve what they have."
+    },
+    {
+      "reference": "B.G 10.12",
+      "sanskrit_shloka": "परं ब्रह्म परं धाम पवित्रं परमं भवान् ।\nपुरुषं शाश्वतं दिव्यमादिदेवमजं विभुम् ॥",
+      "original_translation": "You are the Supreme Brahman, the supreme abode, the supreme purifier, the eternal divine Person."
+    },
+    {
+      "reference": "B.G 18.55",
+      "sanskrit_shloka": "भक्त्या मामभिजानाति यावान्यश्चास्मि तत्त्वतः ।\nततो मां तत्त्वतो ज्ञात्वा विशते तदनन्तरम् ॥",
+      "original_translation": "By devotion, one truly understands Me, and knowing Me fully, enters into Me."
+    },
+    {
+      "reference": "B.G 18.58",
+      "sanskrit_shloka": "मच्चित्तः सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि ।\nअथ चेत्त्वमहंकारान्न श्रोष्यसि विनङ्क्ष्यसि ॥",
+      "original_translation": "Fix your mind on Me, and by My grace you will overcome all obstacles."
+    }
+  ],
+
+  "Lazy": [
+    {
+      "reference": "B.G 3.8",
+      "sanskrit_shloka": "नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः ।\nशरीरयात्राऽपि च ते न प्रसिद्ध्येदकर्मणः ॥",
+      "original_translation": "Perform your prescribed duty, for action is better than inaction; even the maintenance of your body is not possible without action."
+    },
+    {
+      "reference": "B.G 3.19",
+      "sanskrit_shloka": "तस्मादसक्तः सततं कार्यं कर्म समाचर ।\nअसक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः ॥",
+      "original_translation": "Therefore, always perform your duty without attachment; by working without attachment one attains the Supreme."
+    },
+    {
+      "reference": "B.G 3.30",
+      "sanskrit_shloka": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा ।\nनिराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः ॥",
+      "original_translation": "Dedicate all actions to Me, free from desire and selfishness, and fight without inner agitation."
+    },
+    {
+      "reference": "B.G 4.13",
+      "sanskrit_shloka": "चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः ।\nतस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम् ॥",
+      "original_translation": "The four divisions of society were created by Me according to qualities and actions; though I am the creator, know Me as the non-doer and eternal."
+    },
+    {
+      "reference": "B.G 6.16",
+      "sanskrit_shloka": "नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः ।\nन चाति स्वप्नशीलस्य जाग्रतो नैव चार्जुन ॥",
+      "original_translation": "There is no success in yoga for one who eats too much or too little, or sleeps too much or too little."
+    },
+    {
+      "reference": "B.G 16.24",
+      "sanskrit_shloka": "तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ ।\nज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि ॥",
+      "original_translation": "Therefore, the scriptures are your authority in determining what should be done and what should not be done."
+    },
+    {
+      "reference": "B.G 17.16",
+      "sanskrit_shloka": "मनःप्रसादः सौम्यत्वं मौनमात्मविनिग्रहः ।\nभावसंशुद्धिरित्येतत्तपो मानसमुच्यते ॥",
+      "original_translation": "Serenity of mind, gentleness, silence, self-control, and purity of heart are said to be austerity of the mind."
+    },
+    {
+      "reference": "B.G 18.48",
+      "sanskrit_shloka": "सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् ।\nसर्वारम्भा हि दोषेण धूमेनाग्निरिवावृताः ॥",
+      "original_translation": "One should not abandon one's natural work, even if imperfect; all undertakings are covered by faults, just as fire is covered by smoke."
+    }
+  ],
+
+  "Peaceful": [
+    {
+      "reference": "B.G 2.64",
+      "sanskrit_shloka": "रागद्वेषवियुक्तैस्तु विषयानिन्द्रियैश्चरन् ।\nआत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति ॥",
+      "original_translation": "One who moves among objects with senses controlled and free from like and dislike attains peace."
+    },
+    {
+      "reference": "B.G 2.70",
+      "sanskrit_shloka": "आपूर्यमाणमचलप्रतिष्ठं\nसमुद्रमापः प्रविशन्ति यद्वत् ।\nतद्वत्कामा यं प्रविशन्ति सर्वे\nस शान्तिमाप्नोति न कामकामी ॥",
+      "original_translation": "Like the ocean, filled yet steady, one who remains undisturbed by desires attains peace."
+    },
+    {
+      "reference": "B.G 5.13",
+      "sanskrit_shloka": "सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी ।\nनवद्वारे पुरे देही नैव कुर्वन्न कारयन् ॥",
+      "original_translation": "Renouncing all actions mentally, the self-controlled one dwells happily in the city of nine gates, neither acting nor causing action."
+    },
+    {
+      "reference": "B.G 5.18",
+      "sanskrit_shloka": "विद्याविनयसंपन्ने ब्राह्मणे\nगवि हस्तिनि शुनि चैव श्वपाके च ।\nपण्डिताः समदर्शिनः ॥",
+      "original_translation": "The wise see with equal vision a learned Brahmin, a cow, an elephant, a dog, and a dog-eater."
+    },
+    {
+      "reference": "B.G 6.7",
+      "sanskrit_shloka": "ज्ञातात्मा सर्वभूतात्मा सर्वभूतानि चात्मनि ।\nसमं पश्यति योगयुक्तात्मा सर्वत्र समदर्शनः ॥",
+      "original_translation": "One whose mind is steady sees the Self in all beings and all beings in the Self."
+    },
+    {
+      "reference": "B.G 6.27",
+      "sanskrit_shloka": "प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम् ।\nउपैति शान्तरजसं ब्रह्मभूतमकल्मषम् ॥",
+      "original_translation": "Supreme peace comes to the yogi whose mind is tranquil, whose passions are pacified, and who is free from impurities."
+    },
+    {
+      "reference": "B.G 14.26",
+      "sanskrit_shloka": "मां च योऽव्यभिचारेण भक्तियोगेन सेवते ।\nस गुणान्समतीत्यैतान्ब्राह्मभूयाय कल्पते ॥",
+      "original_translation": "One who serves Me through unwavering devotion transcends the modes of nature and becomes fit for Brahman."
+    },
+    {
+      "reference": "B.G 18.54",
+      "sanskrit_shloka": "ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति ।\nसमः सर्वेषु भूतेषु मद्भक्तिं लभते पराम् ॥",
+      "original_translation": "One who has realized Brahman is joyful, free from lamentation and desire, and equal toward all beings."
+    }
+  ],
+
+  "Confused": [
+    {
+      "reference": "B.G 2.7",
+      "sanskrit_shloka": "कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसम्मूढचेताः ।\nयच्छ्रेयः स्यान्निश्िचतं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् ॥",
+      "original_translation": "My nature is overcome by weakness; my mind is confused about duty. I ask You to tell me what is truly best. I am Your disciple and take refuge in You."
+    },
+    {
+      "reference": "B.G 3.30",
+      "sanskrit_shloka": "मयि सर्वाणि कर्माणि संन्यास्याध्यात्मचेतसा ।\nनिराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः ॥",
+      "original_translation": "Dedicate all actions to Me with a spiritual mind, free from desire and attachment, and fight without hesitation."
+    },
+    {
+      "reference": "B.G 4.10",
+      "sanskrit_shloka": "वीतरागभयक्रोधा मन्यमानाः मम उपाश्रिताः ।\nबहवो ज्ञानतपसा पूता मद्भावमागताः ॥",
+      "original_translation": "Freed from attachment, fear, and anger, many purified by knowledge and austerity have attained My nature."
+    },
+    {
+      "reference": "B.G 4.35",
+      "sanskrit_shloka": "यज्ज्ञात्वा न पुनर्मोहमेवं यास्यसि पाण्डव ।\nयेन भूतान्यशेषेण द्रक्ष्यस्यात्मन्यथो मयि ॥",
+      "original_translation": "Knowing this, you will never fall into confusion again, and you will see all beings in the Self and in Me."
+    },
+    {
+      "reference": "B.G 7.27",
+      "sanskrit_shloka": "इच्छाद्वेषसमुत्थेन द्वन्द्वमोहेन भारत ।\nसर्वभूतानि सम्मोहं सर्गे यान्ति परन्तप ॥",
+      "original_translation": "All beings are born into delusion caused by the dualities of attraction and aversion."
+    },
+    {
+      "reference": "B.G 10.4",
+      "sanskrit_shloka": "बुद्धिर्ज्ञानमसम्मोहः क्षमा सत्यं दमः शमः ।\nसुखं दुःखं भवोऽभावो भयं चाभयमेव च ॥",
+      "original_translation": "Intelligence, knowledge, freedom from delusion, forgiveness, truthfulness, control of the senses, calmness, happiness, sorrow, fear, and fearlessness all arise from Me."
+    },
+    {
+      "reference": "B.G 18.30",
+      "sanskrit_shloka": "प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये ।\nबन्धं मोक्षं च या वेत्ति बुद्धिः सा पार्थ सात्त्विकी ॥",
+      "original_translation": "That intellect which understands what should be done and what should not be done, fear and fearlessness, and bondage and liberation is sattvic."
+    },
+    {
+      "reference": "B.G 18.63",
+      "sanskrit_shloka": "इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया ।\nविमृश्यैतदशेषेण यथेच्छसि तथा कुरु ॥",
+      "original_translation": "Thus I have declared to you knowledge that is more secret than all secrets. Reflect on this fully, and then do as you wish."
+    }
+  ],
+
+  "Lonely": [
+    {
+      "reference": "B.G 6.30",
+      "sanskrit_shloka": "यो मां पश्यति सर्वत्र सर्वं च मयि पश्यति ।\nतस्याहं न प्रणश्यामि स च मे न प्रणश्यति ॥",
+      "original_translation": "He who sees Me everywhere and sees everything in Me—I am never lost to him, nor is he ever lost to Me."
+    },
+    {
+      "reference": "B.G 6.31",
+      "sanskrit_shloka": "सर्वभूतस्थितं यो मां भजत्येकत्वमास्थितः ।\nसर्वथा वर्तमानोऽपि स योगी मयि वर्तते ॥",
+      "original_translation": "The yogi who worships Me, dwelling in all beings, remains in Me, whatever his life situation may be."
+    },
+    {
+      "reference": "B.G 9.22",
+      "sanskrit_shloka": "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते ।\nतेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ॥",
+      "original_translation": "To those who worship Me with unwavering devotion, I provide what they lack and preserve what they have."
+    },
+    {
+      "reference": "B.G 9.29",
+      "sanskrit_shloka": "समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः ।\nये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम् ॥",
+      "original_translation": "I am equal to all beings; none is hateful or dear to Me. But those who worship Me with devotion dwell in Me, and I dwell in them."
+    },
+    {
+      "reference": "B.G 12.6-7",
+      "sanskrit_shloka": "ये तु सर्वाणि कर्माणि मयि सन्न्यस्य मत्पराः ।\nअनन्येनैव योगेन मां ध्यायन्त उपासते ॥\nतेषामहं समुद्धर्ता मृत्युसंसारसागरात् ।\nभवामि नचिरात्पार्थ मय्यावेशितचेतसाम् ॥",
+      "original_translation": "Those who dedicate all actions to Me and worship Me with exclusive devotion—I swiftly rescue them from the ocean of birth and death."
+    },
+    {
+      "reference": "B.G 18.57",
+      "sanskrit_shloka": "यत्करोषि यदश्नासि यज्जुहोषि ददासि यत् ।\nयत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम् ॥",
+      "original_translation": "Whatever you do, eat, offer, give, or practice—do it as an offering to Me."
+    },
+    {
+      "reference": "B.G 18.58",
+      "sanskrit_shloka": "मच्चित्तः सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि ।\nअथ चेत्त्वमहंकारान्न श्रोष्यसि विनङ्क्ष्यसि ॥",
+      "original_translation": "Fix your mind on Me and by My grace you will cross all obstacles."
+    },
+    {
+      "reference": "B.G 18.62",
+      "sanskrit_shloka": "तमेव शरणं गच्छ सर्वभावेन भारत ।\nतत्प्रसादात्परां शान्तिं स्थानं प्राप्स्यसि शाश्वतम् ॥",
+      "original_translation": "Surrender wholly to Him; by His grace you will attain supreme peace and the eternal abode."
+    }
+  ]
+}
