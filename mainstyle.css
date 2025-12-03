@@ -99,8 +99,7 @@ body{
 @media (max-width: 576px) {
   
   body {
-    background-attachment: scroll;
-    background-size: cover;
+    background-attachment: fixed;
     background-position: 35% center; 
     /* Allowing the body to expand for scrolling */
     height: auto;
