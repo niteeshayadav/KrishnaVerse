@@ -93,36 +93,30 @@ body{
     color: #1e1e1e;
 }
 
-/* =========================================
+/* 
    Mobile Responsive (Phones)
-   Max-width: 576px
-   ========================================= */
+   Max-width: 576px */
 @media (max-width: 576px) {
   
   body {
-    /* LOCKS the background so Krishna stays still while cards scroll */
     background-attachment: fixed; 
     background-position: 35% center; 
     
-    /* Allow the body to expand for scrolling */
+    /* Allowing the body to expand for scrolling */
     height: auto;
     min-height: 100vh;
-    display: block; /* Removes flex centering so we can use margin-top */
+    display: block;
     overflow-x: hidden;
   }
 
   .container {
     width: 90%;
-    margin: 0 auto; /* Center the container horizontally */
-    
-    /* Push the cards down by 45% of screen height 
-       so Krishna's face is clearly visible at the top */
+    margin: 0 auto; 
     margin-top: 35vh; 
     padding-bottom: 3rem;
   }
 
   .mood-heading {
-    /* Move heading to top and make it readable against the dark/light background */
     margin-top: 1rem;
     margin-bottom: 1rem;
     font-size: 2rem;
@@ -138,9 +132,8 @@ body{
 
   .card {
     width: 100%;
-    /* Convert square card into a nice rectangular "List Item" */
     height: 70px; 
-    aspect-ratio: auto; /* Remove square shape */
+    aspect-ratio: auto; /* Removing square shape */
     
     /* Align items side-by-side (Row) instead of Top-Bottom */
     flex-direction: row; 

@@ -85,36 +85,35 @@ body{
   box-shadow: none !important;
 }
 
-/* =========================================
+/*
    Mobile Responsive (Phones)
-   Max-width: 576px
-   ========================================= */
+   Max-width: 576px */
 @media (max-width: 576px) {
   
   body {
-    /* 1. Shift focus left to keep Krishna in frame (consistent with other pages) */
+    /* Shift focus left to keep Krishna in frame (consistent with other pages) */
     background-position: 35% center;
-    /* Allow scrolling if content is long */
+    /* Allowing scrolling if content is long */
     height: auto;
     min-height: 100vh;
     padding: 2rem 0; 
   }
 
   .msg-container {
-    /* 2. Reset position and fill screen width */
+    /* Reset position and fill screen width */
     width: 90vw;
     margin-left: 0; 
     height: auto; /* Allow height to grow with the text */
     min-height: 50vh;
     padding: 1.5rem;
     
-    /* 3. Ensure it stands out against the background */
+    /* Ensure it stands out against the background */
     background: rgba(255, 255, 255, 0.95);
     box-shadow: 0 0 20px rgba(0,0,0,0.5);
   }
 
   .msg-container h2 {
-    font-size: 1.5rem; /* Smaller heading */
+    font-size: 1.5rem; 
     margin-top: 0;
   }
 
@@ -142,7 +141,7 @@ body{
   }
 
   .nextquote {
-    /* 4. Make button easy to tap */
+    /* Make button easy to tap */
     width: 60vw;
     height: 3rem;
     font-size: 1rem;
@@ -150,10 +149,9 @@ body{
   }
 }
 
-/* =========================================
+/* 
    Tablet Responsive (iPads, Tabs)
-   Width: 577px to 1024px
-   ========================================= */
+   Width: 577px to 1024px */
 @media (min-width: 577px) and (max-width: 1024px) {
   
   body {

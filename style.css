@@ -93,28 +93,28 @@ body *{
   }
 
   .welcome-container {
-    width: 90%;      /* Take up more width on small screens */
-    min-width: auto; /* Reset the desktop min-width */
-    margin: 0;       /* Reset large margins */
+    width: 90%;      
+    min-width: auto; 
+    margin: 0;       
     padding: 1rem;
-    text-align: center; /* Ensure text stays centered */
+    text-align: center; 
   }
 
   .welcome-container h1 {
-    font-size: 2.5rem; /* Reduce font size to fit screen */
-    line-height: 1.2;  /* Better spacing for wrapping text */
+    font-size: 2.5rem; 
+    line-height: 1.2;  
   }
 
   .welcome-container h3 {
-    font-size: 1rem;   /* Adjust sub-heading size */
+    font-size: 1rem;   
     margin-top: 5px;
     
   }
 
   .explore-btn {
-    width: 40vw;       /* Make button wider for easy tapping */
-    height: 2rem;      /* Make button taller (better touch target) */
-    font-size: 1rem;   /* Adjust font size */
+    width: 40vw;       
+    height: 2rem;      
+    font-size: 1rem;   
     margin-top: 1rem;
   }
 }
@@ -122,22 +122,18 @@ body *{
 @media (min-width: 426px) and (max-width: 1024px) {
   
   body {
-    /* Tablets in portrait mode are tall. 
-      40% shifts the focus slightly left to keep Krishna in frame,
-      but not as aggressively as the mobile view.
-    */
     background-position: 40% center;
   }
 
   .welcome-container {
-    width: 80%;        /* Use 80% of the screen width */
+    width: 80%;        
     min-width: auto;
-    margin: 6rem auto; /* Center the container vertically and horizontally */
+    margin: 6rem auto; 
     text-align: center;
   }
 
   .welcome-container h1 {
-    font-size: 3.5rem; /* Large, but smaller than the 4rem desktop size */
+    font-size: 3.5rem; 
   }
 
   .welcome-container h3 {
@@ -145,7 +141,7 @@ body *{
   }
 
   .explore-btn {
-    width: 20vw;       /* A comfortable button size for tablet touchscreens */
+    width: 20vw;       
     height: 2.5rem;
     font-size: 1.1rem;
     margin-top: 1rem;
