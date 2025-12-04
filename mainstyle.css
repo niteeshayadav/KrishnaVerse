@@ -4,7 +4,7 @@
 }
 
 /* Full-screen Krishna background */
-/*body{
+body{
     height: 100vh;
     width: 100vw;
     background: url("assets/krishna\ pic\ 4.jpg");
@@ -14,23 +14,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-}*/
-/* FIXED BACKGROUND for Mobile – Perfect Smooth Scroll */
-.bg-fixed-mobile {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  background-image: url("assets/krishna\ pic\ 4.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  z-index: -1; /* Keep behind all content */
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
+
 
 .container{
     display: flex;
@@ -114,22 +99,16 @@
    Max-width: 576px */
 @media (max-width: 576px) {
   
-  /*body {
+  body {
     background-attachment: fixed;
     background-position: 35% center; 
     /* Allowing the body to expand for scrolling */
-    /*height: auto;
+    height: auto;
     min-height: 100vh;
     display: block;
     overflow-x: hidden;
-  }*/
-  body{
-    background: none !important;
-    overflow-x: hidden;
-    height: auto;
-    min-height: 100vh;
   }
-
+  
   .container {
     width: 90%;
     margin: 0 auto; 
