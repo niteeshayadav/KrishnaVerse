@@ -28,6 +28,7 @@ KrishnaVerse is a mood-based quote recommendation web app that presents curated 
 
 ## 📂 Project Structure
 
+```text
 KrishnaVerse/
 │
 ├── index.html        # Title page with "Enter" button
@@ -36,6 +37,7 @@ KrishnaVerse/
 ├── quotes.json       # Database of shlokas categorized by mood
 ├── quotes.js         # Logic: Fetching data, random selection, & rendering
 └── styles.css        # Global styling for the application
+
 ---
 
 ## 🔧 How It Works
