@@ -2,6 +2,8 @@ const Reference = document.querySelector(".reference");
 const Shloka = document.querySelector(".shloka-quote");
 const Meaning = document.querySelector(".meaning");
 const NextBtn = document.querySelector(".nextquote");
+const MoodBtn = document.querySelector(".another-mood");
+
 const params = new URLSearchParams(window.location.search);
 const mood = params.get("mood");
 
@@ -28,3 +30,9 @@ showQuotes(mood);
 NextBtn.addEventListener("click",()=>{
     showQuotes(mood);
 });
+
+//Another-mood button
+
+MoodBtn.addEventListener("click",()=>{
+    window.location.href="main.html";
+})
