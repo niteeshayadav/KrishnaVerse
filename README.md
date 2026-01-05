@@ -92,3 +92,14 @@ Simply visit the live link to use the application — no setup required.
 - `index.html` → Homepage with **Enter**  
 - `main.html` → Mood selection  
 - `shloka.html?mood=SelectedMood` → Displays a random shloka with translation
+
+---
+
+## 🎥 Live Demo
+
+Here is a recording of the user flow:
+
+
+
+https://github.com/user-attachments/assets/64c36a42-68e3-47d7-a936-4e6f15c22071
+
